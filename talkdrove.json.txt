@@ -1,15 +1,15 @@
 
 {
-    "bot-name": "MEGALODON-MD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot by DybyTech",
-    "logo": "https://files.catbox.moe/frns4k.jpg",
+    "bot-name": "MAFIA-MD",
+    "description": "Whiskey Sockets Baileys Whatsapp bot by MarcTech",
+    "logo": "https://i.ibb.co/3yftbcJg/Unknown-11.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://meg-lodon-session.onrender.com",
+    "documentation-link": "https://mega-session-pair.onrender.com",
     "owner-verification": "herokutruem@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with MEGALODON~MD~  or get session id from here,  https://meg-lodon-session.onrender.com/pair",
+        "description": "Put your SESSION_ID here. Make sure it starts with MAFIA~MD~  or get session id from here,  https://mega-session-pair.onrender.com",
         "value":"",
         "required": true
         
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
+      "value": "𝐌AFIA-MD"
   
     },
     
@@ -77,27 +77,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃 BOT VIEWED YOUR STATUS *"
+      "value": "*𝐌AFIA-𝐌𝐃 BOT VIEWED YOUR STATUS *"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "MarcTech"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "50948336180"
+      "value": "2250501889640"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
+      "value": "𝐌AFIA-𝐌𝐃"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *©  ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "> *©  ᴘᴏᴡᴇʀᴇᴅ ʙʏ MarcTech*"
     },
 
       "DELETE_LINKS": {
